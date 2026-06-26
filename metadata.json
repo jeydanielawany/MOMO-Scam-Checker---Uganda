@@ -1,0 +1,6 @@
+{
+  "name": "MOMO Scam Checker - Uganda",
+  "description": "Verify Ugandan mobile money phone numbers for potential scams and fraud. Features interactive reporting, status checks, and telecom-inspired UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
